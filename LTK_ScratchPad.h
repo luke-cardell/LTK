@@ -1,5 +1,5 @@
 /*! \file       LTK_ScratchPad.h
-**  \author     Luke Cardell
+**  \author     Lux Cardell
 **  \date       10/14/2018
 **  \brief
 **    Short-term memory allocator tool.
@@ -13,7 +13,7 @@
 
 using size_t = std::size_t;
 
-//! Luke's Tool Kit
+//! Lux's Tool Kit
 namespace LTK {
   /*! ScratchPad
   **  \brief
@@ -166,10 +166,10 @@ namespace LTK {
 #endif // LTK_DEBUG_SCRATCHPAD
   };
 
-} // Luke's Tool Kit
+} // Lux's Tool Kit
 
 #endif // LTK_SCRATCHPAD_H
 
-/* Authored by Luke Cardell
+/* Authored by Lux Cardell
 ** Open source under GNU Public License
 */

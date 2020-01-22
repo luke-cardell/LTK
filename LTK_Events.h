@@ -1,5 +1,5 @@
 /*! \file       LTK_Events.h
-**  \author     Luke Cardell
+**  \author     Lux Cardell
 **  \date       10/18/2018
 **  \brief
 **    Events and event system designed to be
@@ -21,7 +21,7 @@
 
 #define LTK_EVENTS_PADSIZE 1024
 
-//! Luke's Tool Kit
+//! Lux's Tool Kit
 namespace LTK {
   /*! EventSys
   **  \brief
@@ -670,10 +670,10 @@ namespace LTK {
     ScratchPad<LTK_EVENTS_PADSIZE> * m_pad;
   };
 
-} // Luke's Tool Kit
+} // Lux's Tool Kit
 
 #endif // !LTK_EVENTS_H
 
-/* Authored by Luke Cardell
+/* Authored by Lux Cardell
 ** Open source under GNU Public License
 */
