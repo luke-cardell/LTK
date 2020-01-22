@@ -1,6 +1,6 @@
-Luke's Tool Kit
-Written by Luke Cardell
-ReadMe last updated 11/16/2018
+Lux's Tool Kit
+Written by Lux Cardell
+ReadMe last updated 1/22/2020
 
 All source code is protected under the GNU Public
 License.
